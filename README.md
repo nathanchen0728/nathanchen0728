@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Ball Sports
 - 🌱 I’m currently learning ... php
 - 💞️ I’m looking to collaborate on ...  Web Design
-- 📫 How to reach me ... nathan@gap.kmu.edu.tw
+- 📫 How to reach me ... nathan@kmu.edu.tw/nathan@gap.kmu.edu.tw
 
 <!---
 nathanchen0728/nathanchen0728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
